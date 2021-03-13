@@ -1,0 +1,15 @@
+@media screen
+{
+    .img
+    {
+        margin-left: 200px;
+    }
+    .btn1
+    {
+        display: none;
+    }
+    .img2
+    {
+        display: none;
+    }
+}
