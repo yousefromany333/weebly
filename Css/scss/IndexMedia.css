@@ -1,5 +1,9 @@
 @media screen
 {
+    body
+    {
+        height:;
+    }
     .img
     {
         margin-left: 200px;
@@ -11,5 +15,103 @@
     .img2
     {
         display: none;
+    }
+    .me
+    {
+        width: 100%;
+        margin-left: 75px;
+    }
+    .btn2
+    {
+        margin-left: 30px;
+        margin-top: 30px;
+    }
+    .btn3
+    {
+        margin-top: 30px;
+    }   
+    .bag2
+    {
+        width: 100%;
+    } 
+    .h1
+    {
+        margin-top: 50px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .h2
+    {
+        margin-top: 30px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .p0
+    {
+        margin-top: 30px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .p123
+    {
+        margin-top: 30px;
+        margin-left: 20px;
+        width: 90%;
+        text-align: center;
+    }
+    .img99
+    {
+        position: absolute;
+        top: 3179px;
+        left: -265px;
+    }
+    .y
+    {
+        margin-top: 500px;
+        margin-left: 150px;
+    } 
+    .y1
+    {
+        margin-top: -10px;
+        margin-left: 150px;
+    }
+    .back
+    {
+        margin-top: 100px;
+    }
+    .mo
+    {
+        margin-top: 30px;
+        margin-left: 0;
+        width: 100%;
+        text-align: center;
+    }
+    .mo1
+    {
+        margin-top: 30px;
+        width: 90%;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .yousef
+    {
+        margin-left: 0px;
+        width: 100%;
+    }
+    .btn10
+    {
+        margin-left: 200px;
+    }
+    .l1
+    {
+        padding-top: 10px;
+        margin-left: 150px;
+    }
+    .d
+    {
+        padding: 0;
     }
 }
